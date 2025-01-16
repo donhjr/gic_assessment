@@ -1,4 +1,4 @@
-Enhancements include:
+**Enhancements include:**
  1. Before any cars are added;
      > message indicating 'There are no cars to drive.'
      > there would not be any option to select 'Run Simulation' - only 'Add a car to field'
